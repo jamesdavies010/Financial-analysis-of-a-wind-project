@@ -29,6 +29,8 @@ Wind energy projects require significant capital investment and long-term financ
 
 ## Key financial insights
 
+![Financial Summary](images/financial_summary.png)
+
 - **Investment Feasibility**: The project's post-tax NPV in the base case is **£8.75M**, indicating a profitable investment.
 - **IRR Analysis**: The **Internal Rate of Return (IRR) is 15%**, surpassing typical hurdle rates for renewable energy investments.
 - **Profitability Index (ROI)**: Achieves a **68% ROI** under base conditions, demonstrating strong returns.
@@ -38,12 +40,14 @@ Wind energy projects require significant capital investment and long-term financ
 
 ### Tornado analysis
 
+![Tornado Chart](images/tornado_chart.png)
+
 The project's **NPV is highly sensitive to**:
 
 - **Electricity price (£/MWh)**: The most influential factor. A 50% drop leads to a negative NPV, while a 50% increase significantly boosts profitability.
 - **Capacity factor**: Higher turbine efficiency improves NPV. Optimising turbine placement and technology upgrades can significantly increase profitability.
 - **Discount rate**: Higher discount rates reduce NPV considerably, highlighting the importance of securing low-cost financing.
-- **Operational xxpenditure (OpEx)**: While cost control improves financial viability, excessive reductions in OpEx should not come at the expense of turbine performance and reliability.
+- **Operational expenditure (OpEx)**: While cost control improves financial viability, excessive reductions in OpEx should not come at the expense of turbine performance and reliability.
 - **Inflation**: Moderate impact, with higher inflation slightly improving NPV due to potential price adjustments. Long-term contracts that allow pricing flexibility may provide financial stability.
 - **Number of turbines**: Increasing the number of turbines directly scales profitability, indicating strong returns on expansion.
 - **Turbine lifetime**: Longer turbine lifespans slightly increase NPV, though this is a secondary driver of profitability.
@@ -51,8 +55,16 @@ The project's **NPV is highly sensitive to**:
 
 ### Multi-factor sensitivity analysis
 
+![Multi-Factor Sensitivity](images/multi_factor_sensitivity_1.png)
+
 - **Electricity price vs. Discount rate**: At £45/MWh, the project remains viable across all discount rates (4%–12%). If discount rates exceed 10%, prices must be at least £45/MWh for viability.
+
+![Multi-Factor Sensitivity](images/multi_factor_sensitivity_2.png)
+
 - **Electricity price vs. Capacity factor**: At £45/MWh, the project is viable with a minimum **27% capacity factor**. If electricity prices fall to £37.5/MWh, a **33% capacity factor** is needed. At £25/MWh, the project becomes unviable regardless of efficiency.
+
+![Multi-Factor Sensitivity](images/multi_factor_sensitivity_3.png)
+
 - **Electricity price vs. Years before operation**: At £45/MWh, the project remains viable even with up to **9 years of delays**. If prices fall to **£37.5/MWh, turbines must be operational within 5 years** to stay profitable. At £25/MWh, the project is unviable regardless of delays.
 
 ### Scenario analysis
@@ -65,7 +77,12 @@ A comparison of financial outcomes under different economic conditions:
 
 ## Cash flow analysis
 
-- **Break-even analysis**: The project achieves payback in approximately **8-11 years**.
+![Cash Flow Analysis](images/cash_flow_analysis_1.png)
+
+
+![Cash Flow Analysis](images/cash_flow_analysis_2.png)
+
+- **Break-even analysis**: The project achieves payback in approximately **8 years** and discounted payback in **11 years**.
 - **Net cash flow growth**: Positive post-tax cash flows accelerate after initial CAPEX recovery, ensuring sustainable long-term returns.
 
 ## How to use
@@ -81,4 +98,6 @@ A comparison of financial outcomes under different economic conditions:
 - Financial risk analysis for capital projects.
 - Sensitivity analysis for long-term energy project planning.
 
+---
+This project demonstrates expertise in **financial modelling, investment analysis, and risk assessment**, providing actionable insights into renewable energy financing. If you’re interested in a detailed review, feel free to reach out!
 
