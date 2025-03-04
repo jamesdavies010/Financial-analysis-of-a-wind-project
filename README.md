@@ -24,7 +24,7 @@ Wind energy projects require significant capital investment and long-term financ
 ### 2. Risk analysis
 
 - Identification of **critical financial risks** (e.g., price fluctuations, operational inefficiencies).
-- **Tornado Analysis** and **multi-factor sensitivity analysis** to measure the impact of key variables on project profitability.
+- **Tornado analysis** and **multi-factor sensitivity analysis** to measure the impact of key variables on project profitability.
 - **Scenario analysis** showing base case, better-case and worse-case projections.
 
 ## Key financial insights
@@ -40,20 +40,20 @@ Wind energy projects require significant capital investment and long-term financ
 
 The project's **NPV is highly sensitive to**:
 
-- **Electricity Price (£/MWh)**: The most influential factor. A 50% drop leads to a negative NPV, while a 50% increase significantly boosts profitability.
-- **Capacity Factor**: Higher turbine efficiency improves NPV. Optimising turbine placement and technology upgrades can significantly increase profitability.
-- **Discount Rate**: Higher discount rates reduce NPV considerably, highlighting the importance of securing low-cost financing.
-- **Operational Expenditure (OpEx)**: While cost control improves financial viability, excessive reductions in OpEx should not come at the expense of turbine performance and reliability.
+- **Electricity price (£/MWh)**: The most influential factor. A 50% drop leads to a negative NPV, while a 50% increase significantly boosts profitability.
+- **Capacity factor**: Higher turbine efficiency improves NPV. Optimising turbine placement and technology upgrades can significantly increase profitability.
+- **Discount rate**: Higher discount rates reduce NPV considerably, highlighting the importance of securing low-cost financing.
+- **Operational xxpenditure (OpEx)**: While cost control improves financial viability, excessive reductions in OpEx should not come at the expense of turbine performance and reliability.
 - **Inflation**: Moderate impact, with higher inflation slightly improving NPV due to potential price adjustments. Long-term contracts that allow pricing flexibility may provide financial stability.
-- **Number of Turbines**: Increasing the number of turbines directly scales profitability, indicating strong returns on expansion.
-- **Turbine Lifetime**: Longer turbine lifespans slightly increase NPV, though this is a secondary driver of profitability.
-- **Project Delays**: Delays before turbines start generating revenue significantly reduce NPV. Streamlining permitting, supply chain, and construction processes can help mitigate these risks.
+- **Number of turbines**: Increasing the number of turbines directly scales profitability, indicating strong returns on expansion.
+- **Turbine lifetime**: Longer turbine lifespans slightly increase NPV, though this is a secondary driver of profitability.
+- **Project delays**: Delays before turbines start generating revenue significantly reduce NPV. Streamlining permitting, supply chain, and construction processes can help mitigate these risks.
 
 ### Multi-factor sensitivity analysis
 
-- **Electricity Price vs. Discount Rate**: At £45/MWh, the project remains viable across all discount rates (4%–12%). If discount rates exceed 10%, prices must be at least £45/MWh for viability.
-- **Electricity Price vs. Capacity Factor**: At £45/MWh, the project is viable with a minimum **27% capacity factor**. If electricity prices fall to £37.5/MWh, a **33% capacity factor** is needed. At £25/MWh, the project becomes unviable regardless of efficiency.
-- **Electricity Price vs. Years Before Operation**: At £45/MWh, the project remains viable even with up to **9 years of delays**. If prices fall to **£37.5/MWh, turbines must be operational within 5 years** to stay profitable. At £25/MWh, the project is unviable regardless of delays.
+- **Electricity price vs. Discount rate**: At £45/MWh, the project remains viable across all discount rates (4%–12%). If discount rates exceed 10%, prices must be at least £45/MWh for viability.
+- **Electricity price vs. Capacity factor**: At £45/MWh, the project is viable with a minimum **27% capacity factor**. If electricity prices fall to £37.5/MWh, a **33% capacity factor** is needed. At £25/MWh, the project becomes unviable regardless of efficiency.
+- **Electricity price vs. Years before operation**: At £45/MWh, the project remains viable even with up to **9 years of delays**. If prices fall to **£37.5/MWh, turbines must be operational within 5 years** to stay profitable. At £25/MWh, the project is unviable regardless of delays.
 
 ### Scenario analysis
 
@@ -65,8 +65,8 @@ A comparison of financial outcomes under different economic conditions:
 
 ## Cash flow analysis
 
-- **Break-even Analysis**: The project achieves payback in approximately **8-11 years**.
-- **Net Cash Flow Growth**: Positive post-tax cash flows accelerate after initial CAPEX recovery, ensuring sustainable long-term returns.
+- **Break-even analysis**: The project achieves payback in approximately **8-11 years**.
+- **Net cash flow growth**: Positive post-tax cash flows accelerate after initial CAPEX recovery, ensuring sustainable long-term returns.
 
 ## How to use
 
