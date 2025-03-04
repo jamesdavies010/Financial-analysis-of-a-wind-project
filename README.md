@@ -4,7 +4,7 @@
 
 This project conducts a **financial valuation and risk analysis** for a wind energy project, providing key insights into its investment prospects. It models revenue projections, cost structures, risk factors, and sensitivity analyses to support informed decision-making.
 
-## Business Value
+## Business value
 
 Wind energy projects require significant capital investment and long-term financial planning. This analysis helps investors, financial analysts, and energy companies:
 
@@ -13,30 +13,30 @@ Wind energy projects require significant capital investment and long-term financ
 - Evaluate multiple **scenarios** to optimise investment decisions.
 - Support strategic decision-making for sustainable energy investments.
 
-## Features & Methodology
+## Features & methodology
 
-### 1. Financial Modelling
+### 1. Financial modelling
 
 - **Revenue estimation** based on energy production and market prices.
 - **Cost modelling** including capital expenditure (CAPEX), operational costs (OPEX), and maintenance.
 - **Net Present Value (NPV), Internal Rate of Return (IRR), Levelised Cost of Electricity (LCOE), and Payback Period** calculations.
 
-### 2. Risk Analysis
+### 2. Risk analysis
 
 - Identification of **critical financial risks** (e.g., price fluctuations, operational inefficiencies).
 - **Tornado Analysis** and **multi-factor sensitivity analysis** to measure the impact of key variables on project profitability.
 - **Scenario analysis** showing base case, better-case and worse-case projections.
 
-## Key Financial Insights
+## Key financial insights
 
 - **Investment Feasibility**: The project's post-tax NPV in the base case is **£8.75M**, indicating a profitable investment.
 - **IRR Analysis**: The **Internal Rate of Return (IRR) is 15%**, surpassing typical hurdle rates for renewable energy investments.
 - **Profitability Index (ROI)**: Achieves a **68% ROI** under base conditions, demonstrating strong returns.
 - **Levelised Cost of Electricity (LCOE)**: The project yields an LCOE of **£44.31/MWh**, providing a competitive cost structure for energy generation.
 
-## Sensitivity Analysis & Risk Impact
+## Sensitivity analysis & risk impact
 
-### Tornado Analysis
+### Tornado analysis
 
 The project's **NPV is highly sensitive to**:
 
@@ -49,13 +49,13 @@ The project's **NPV is highly sensitive to**:
 - **Turbine Lifetime**: Longer turbine lifespans slightly increase NPV, though this is a secondary driver of profitability.
 - **Project Delays**: Delays before turbines start generating revenue significantly reduce NPV. Streamlining permitting, supply chain, and construction processes can help mitigate these risks.
 
-### Multi-Factor Sensitivity Analysis
+### Multi-factor sensitivity analysis
 
 - **Electricity Price vs. Discount Rate**: At £45/MWh, the project remains viable across all discount rates (4%–12%). If discount rates exceed 10%, prices must be at least £45/MWh for viability.
 - **Electricity Price vs. Capacity Factor**: At £45/MWh, the project is viable with a minimum **27% capacity factor**. If electricity prices fall to £37.5/MWh, a **33% capacity factor** is needed. At £25/MWh, the project becomes unviable regardless of efficiency.
 - **Electricity Price vs. Years Before Operation**: At £45/MWh, the project remains viable even with up to **9 years of delays**. If prices fall to **£37.5/MWh, turbines must be operational within 5 years** to stay profitable. At £25/MWh, the project is unviable regardless of delays.
 
-### Scenario Analysis
+### Scenario analysis
 
 A comparison of financial outcomes under different economic conditions:
 
@@ -63,19 +63,19 @@ A comparison of financial outcomes under different economic conditions:
 - **Base-case scenario**: Assumes stable electricity prices, resulting in **£8.75M post-tax NPV, 15% IRR, and 68% ROI**.
 - **Better-case scenario**: Higher electricity prices and economic growth increase NPV to **£9.80M, with 16% IRR and 77% ROI**.
 
-## Cash Flow Analysis
+## Cash flow analysis
 
 - **Break-even Analysis**: The project achieves payback in approximately **8-11 years**.
 - **Net Cash Flow Growth**: Positive post-tax cash flows accelerate after initial CAPEX recovery, ensuring sustainable long-term returns.
 
-## How to Use
+## How to use
 
 1. **Download the project files**.
 2. **Modify input assumptions** (costs, revenue, risk factors) in the `Input Data` sheet.
 3. **Review key outputs** in the `Dashboard` for financial insights.
 4. **Analyse risk & scenarios** using the `Further Analysis` and `Calculations` sheets.
 
-## Ideal Use Cases
+## Ideal use cases
 
 - Renewable energy investment assessments.
 - Financial risk analysis for capital projects.
